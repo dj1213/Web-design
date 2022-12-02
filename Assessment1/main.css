@@ -1,0 +1,51 @@
+*
+{margin: 0%;
+box-sizing: border-box;    
+}
+
+h2
+{color:darkred;
+text-align: center;
+
+}
+.main
+{height: 850px;
+
+  background-color: cadetblue;  
+  width: 100%;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.one
+{
+float: left;
+width: 20%;
+padding-top: 10px;
+margin-left: 5%;
+}
+
+.two
+{padding: 5px;
+float: left;
+width: 40%;
+margin-right: 35%;
+
+}
+
+.a
+{border-radius: 5px;
+ height: 35px; 
+}
+
+.one.label for
+{
+ font-size: 50px;
+}
+
+.submit
+{height: 35px;
+border-radius: 5px;
+color:white ;
+background-color: darkgreen;
+}
