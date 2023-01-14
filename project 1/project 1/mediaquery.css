@@ -1,9 +1,6 @@
-*
-{
-box-sizing: border-box;
-margin: 0%;
-}
+@media screen and (min-width: 480px)
 
+{
 .head 
 {
 height: 40px;
@@ -261,4 +258,7 @@ color: white;
 {
 text-align: center;
 font-size: 18px;
+}
+
+
 }
