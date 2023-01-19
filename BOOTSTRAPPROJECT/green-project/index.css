@@ -1,0 +1,226 @@
+*
+{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+/* anouncement */
+
+.logo
+{
+box-shadow: 3px 0px 8px 9px rgb(1, 32, 1)inset;  
+}
+.a1
+{position: fixed;
+z-index:5 ;
+}
+
+.a3
+{
+font-size: large;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: snow;  
+}
+
+.b2
+{
+color:springgreen;  
+}
+
+.b2:hover
+{
+color: rgba(14, 27, 7, 0.919);
+background-color: rgba(91, 236, 104, 0.936);  
+}
+.side
+{
+color: rgb(61, 141, 31);
+width: 100%;  
+}
+
+/* part2 */
+
+.homet2
+{
+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: rgb(29, 141, 29);    
+}
+
+.homet3
+{
+font-size: large;
+color: darkseagreen;    
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+}
+
+.homet4:hover
+{
+ color: darkgreen;   
+}
+
+.homet5
+{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.homet6
+{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.homet7
+{
+color: darkgreen;    
+}
+
+/* about page */
+
+/* part 1 */
+.about1
+{
+
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.about1:hover
+{color: rgb(125, 229, 125);
+
+font-weight: bold;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about2
+{
+text-align: center;
+text-align: justify;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+/* part 2 */
+.abt1
+{
+font-weight: bold;    
+}
+.abt2
+{font-style: italic;
+text-align: justify;    
+}
+.abt3
+{
+text-align: justify;
+ font-size: medium;   
+}
+/* part 3 */
+.abtb1
+{
+color: limegreen;    
+}
+
+/* part 4 */
+
+.abtc1
+{
+  font-weight: bold;
+color: rgb(53, 78, 5);    
+}
+.abtc2
+{
+color: rgb(33, 143, 88);
+}
+
+
+
+/* services page */
+
+.ser1
+{
+font-weight: 500;  
+color: rgb(2, 47, 2);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ser3
+{
+color: rgb(5, 83, 33);    
+}
+
+.ser2
+{
+font-variant: small-caps; 
+}
+.ser8
+{
+box-shadow: 10px 10px 80px 15px rgb(5, 135, 5) inset;  
+}
+
+.ser4
+{
+  padding: 10px;;
+  color:green
+}
+
+/* PART 2 */
+
+.ser5
+{
+height: 300px;  
+}
+
+.ser6
+{
+font-weight: bold;
+color: snow;  
+}
+
+.ser7
+{
+color: snow;
+font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+.foo1
+{
+  font-weight: bold;  
+  color: darkgreen;
+}
+
+.foo2
+{
+color: snow;    
+}
+
+.foo3
+{
+    padding: 8px;
+    color: snow;
+background-color: lightgreen;}
+
+.foo4
+{
+color: snow;    
+}
+
+/* team page */
+
+.te1
+{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+}
